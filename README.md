@@ -2,7 +2,7 @@
 
 # Beta Reviewers Auto-update Tester
 
-This is a very special plugin designed to make life much easier for developers and beta-testers of plugins and themes.
+This is a very special Obsidian plugin designed to make life much easier for developers and beta-testers of plugins and themes.
 
 The **Beta Reviewers Auto-update Tool** or **BRAT** for short is a plugin that makes it easier for you to assist other developers with reviewing and testing their plugins and themes.
 
